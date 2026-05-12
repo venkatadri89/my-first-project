@@ -1,1 +1,1 @@
-console.log('Good Morning KIRO 1);
+console.log('Good Morning KIRO 2);
